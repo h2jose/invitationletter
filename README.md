@@ -1,10 +1,10 @@
 # Invitation Letter Auto-Generate
 Invitation Letter auto-generate<br/>
 It allows self-generate an invitational letter for a participant to a conference or event.<br/>
-## Use
-Form 3 with inputs: Title, Name and institution of participant<br/>
-The app receive with post method<br/>
-A pdf file is generated to download<br/>
+## Resume
+Form with 3 inputs: Title, Name and institution of participant<br/>
+The app work with post method<br/>
+A pdf file is generated with DOMPDF to download<br/>
 Tha app use php and composer<br/>
 
 ## Install
