@@ -1,6 +1,7 @@
 # Ignores
-\.DS_Store
-\.classpath
-\.project
-\.settings
-\.metadata/
+.DS_Store
+.classpath
+.project
+.settings
+.metadata/
+.idea/
